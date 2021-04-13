@@ -1,5 +1,5 @@
 ---
-id: discord-link
+id: link
 title: Łączenie konta Discord oraz Minecraft
 sidebar_label: Łączenie konta Discord oraz Minecraft
 ---
@@ -21,6 +21,6 @@ Jeśli twoje konto zostało połączone, otrzymasz wiadomość podobną do tej.
 
 ![Docusaurus](/img/img_7.png)
 
-Jeśli otrzymałeś/aś inną wiadomość, spróbuj połączyć swoje konto jeszcze raz. Jeśli dalej nie możesz połączyć swojego konta, skontaktuj się z administracją na serwerze Discord (otwórz ticket na kanale #otworz-ticket).
+Jeśli otrzymałeś/aś inną wiadomość, spróbuj połączyć swoje konto jeszcze raz. Jeśli dalej nie możesz połączyć swojego konta, skontaktuj się z administracją na serwerze Discord ([stwórz ticket](/docs/discord/tickets)).
 
 

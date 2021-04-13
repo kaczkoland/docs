@@ -12,7 +12,17 @@ module.exports = {
     {
       type: 'category',
       label: 'Podstawowe informacje',
-      items: ['start', 'jak-sie-polaczyc', 'discord-link']
+      items: ['start/start', 'start/jak-sie-polaczyc']
+    },
+    {
+      type: 'category',
+      label: 'Discord',
+      items: ['discord/link', "discord/tickets"]
+    },
+    {
+      type: 'category',
+      label: 'Sklep',
+      items: []
     },
   ]
 };
