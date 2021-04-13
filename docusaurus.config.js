@@ -153,7 +153,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/kaczkoland/docs/edit/master/website/',
+            'https://github.com/kaczkoland/docs/edit/main/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
