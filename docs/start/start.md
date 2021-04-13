@@ -4,7 +4,7 @@ title: Podstawowe komendy
 sidebar_label: Podstawowe komendy
 slug: /
 ---
-Kaczkoland to serwer Minecraft survival 1.16.4+. Na tej stronie dowiesz się podstawowych komend.
+Kaczkoland to serwer Minecraft survival 1.16.4+. Na tej stronie dowiesz się sporo podstawowych komend.
 
 Przydatne linki:
 - **Strona główna** (statystyki, lista banów, ostrzeżeń itd): https://kaczkoland.pl/
