@@ -21,8 +21,13 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Sklep',
-      items: []
+      label: 'Sklep z rangami',
+      items: ["shop/benefits", "shop/kupno"]
+    },
+    {
+      type: 'category',
+      label: 'Sklep z rzeczami',
+      items: ["shop-items/sklepy-serwerowe"]
     },
   ]
 };

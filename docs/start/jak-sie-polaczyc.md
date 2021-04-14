@@ -25,4 +25,4 @@ Nasz serwer obsługuje wersję 1.16.4 oraz wyższe.
 
 ![Docusaurus](/img/img_3.png)
 
-Jeśli wyświetliło się logo serwera oraz napis (MOTD), gratulacje! Jeśli nie spróbuj dodać serwer jeszcze raz, a jeśli dalej nie będzie działać skontaktuj się z nami na [naszym discordzie](https://discord.kaczkoland.pl) i [stwórz ticket](/docs/discord/tickets). 
+Jeśli wyświetliło się logo serwera oraz napis (MOTD), gratulacje! Jeśli nie, spróbuj dodać serwer jeszcze raz, a jeśli dalej nie będzie działać skontaktuj się z nami na [naszym discordzie](https://discord.kaczkoland.pl) i [stwórz ticket](/docs/discord/tickets). 
