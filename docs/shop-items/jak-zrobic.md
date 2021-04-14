@@ -14,9 +14,9 @@ Na początek będziesz potrzebować skrzynki oraz rzeczy, które chcesz sprzedaw
 
 ### Tworzenie sklepu
 Użyj komendy `/shop create <ilość> <cena za kupno> <cena za sprzedaż>`, np. `/shop create 16 100 20`.
-Jeśli chcesz, aby gracze tylko kupowali jakąś rzecz od Ciebie możesz wpisać cenę za sprzedaż jako 0, np.`/shop create 1 10 0`.
+Jeśli chcesz, aby gracze tylko kupowali jakąś rzecz od Ciebie, możesz wpisać cenę za sprzedaż jako 0, np.`/shop create 1 10 0`.
 
-Po wpisaniu komendy kliknij prawym przyciskiem myszy na skrzynkę, trzymając w ręce rzecz, którą chcesz sprzedawać/kupować.
+Po wpisaniu komendy kliknij prawym przyciskiem myszy na skrzynkę, **trzymając w ręce rzecz, którą chcesz sprzedawać/kupować**.
 
 ![Docusaurus](/img/img_13.png)
 
