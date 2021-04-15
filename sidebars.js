@@ -29,5 +29,10 @@ module.exports = {
       label: 'Sklep z rzeczami',
       items: ["shop-items/sklepy-serwerowe"]
     },
+    {
+      type: 'category',
+      label: 'API',
+      items: ["api/info"]
+    },
   ]
 };
