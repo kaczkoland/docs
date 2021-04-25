@@ -63,8 +63,7 @@ Aby dostać się w niektóre miejsca na serwerze musisz znać niektóre komendy.
 - `/report <nick gracza premium> <powód>` - zgłoszenie gracza (za np. łamanie [regulaminu](https://kaczkoland.pl/regulamin))
 - `/trade <nick gracza>` - wysłanie prośby o wymianę
 ## Sklep serwerowy
-Na Kaczkolandzie możesz kupować lub sprzedawać rzeczy w sklepie na spawnie (`/spawn`). 
-### Sprzedawanie
+Na Kaczkolandzie możesz kupować lub sprzedawać rzeczy w sklepie na spawnie (`/spawn`).
 ### Sprzedawanie
 Aby sprzedać jakąś rzecz w sklepie, kliknij lewym przyciskiem myszy na skrzynkę (lub inny klawisz ustawiony pod niszczenie bloków). Możesz przy tym klikać klawisz SHIFT (lub klawisz ustawiony do kucania), aby sprzdać 64 sztuki danej rzeczy.
 ### Kupowanie
