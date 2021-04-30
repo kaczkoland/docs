@@ -102,7 +102,7 @@ Zwraca wszystkich graczy online
 ```http
 GET /mutes
 ```
-Zwraca wszystkich zbanowanych graczy
+Zwraca wszystkich wyciszonych graczy
 #### Przykładowa odpowiedź
 ```javascript
 [
