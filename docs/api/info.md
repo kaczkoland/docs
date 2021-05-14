@@ -73,6 +73,7 @@ Zwraca wszystkich zbanowanych graczy
 ```javascript
 [
   {
+    "id": 109,
     "expiration":1616008724374,
     "created_at":1615403924374,
     "reason":"wspolpraca z cheaterem",
@@ -80,6 +81,7 @@ Zwraca wszystkich zbanowanych graczy
     "source":"rkubapl"
   },
   {
+    "id": 108,
     "expiration":-1,
     "created_at":1615404006620,
     "reason":"wspolpraca z cheaterem",
@@ -104,9 +106,10 @@ GET /mutes
 ```
 Zwraca wszystkich wyciszonych graczy
 #### Przykładowa odpowiedź
-```javascript
+```json
 [
   {
+    "id": 103,
     "expiration":1616008724374,
     "created_at":1615403924374,
     "reason":"wspolpraca z cheaterem",
@@ -115,6 +118,7 @@ Zwraca wszystkich wyciszonych graczy
     "type": "TEMP_MUTE"
   },
   {
+    "id": 104,
     "expiration":-1,
     "created_at":1615404006620,
     "reason":"wspolpraca z cheaterem",
@@ -130,9 +134,10 @@ GET /warns
 ```
 Zwraca wszystkie ostrzeżenia graczy
 #### Przykładowa odpowiedź
-```javascript
+```json
 [
   {
+    "id": 100,
     "expiration":-1,
     "created_at":1615899462093,
     "reason":"Brak",
@@ -141,6 +146,7 @@ Zwraca wszystkie ostrzeżenia graczy
     "type":"WARNING"
    },
    {
+    "id": 101,
     "expiration":1615906664843000,
     "created_at":1615899464843,
     "reason":"Brak",
