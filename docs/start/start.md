@@ -19,6 +19,7 @@ Social Media:
 - **Instagram** - [@kaczkoland](https://instagram.com/kaczkoland)
 - **Youtube** - [Kaczkoland](https://kaczkoland.pl/youtube)
 - **Twitch** - [@kaczkoland](https://twitch.tv/kaczkoland)
+- **Tiktok** - [@kaczkoland](https://tiktok.com/@kaczkoland)
 ### Legenda
 `[]` - opcjonalny argument do komendy (np. `/home [nazwa]` - `/home` przeniesie cię na twój domyśny dom, opcjonalnie możesz dodać nazwę domu - `/home expiarka`)
 
@@ -60,7 +61,7 @@ Aby dostać się w niektóre miejsca na serwerze musisz znać niektóre komendy.
 - `/pay <nick gracza> <ilość pieniędzy>` - przelewanie wirtualnej waluty na konto innego grazca
 ### Inne komendy
 - `/skin <nick gracza premium/link do skina>` - ustawianie skina (inaczej skórki)
-- `/report <nick gracza premium> <powód>` - zgłoszenie gracza (za np. łamanie [regulaminu](https://kaczkoland.pl/regulamin))
+- `/report <nick gracza> <powód>` - zgłoszenie gracza (za np. łamanie [regulaminu](https://kaczkoland.pl/regulamin))
 - `/trade <nick gracza>` - wysłanie prośby o wymianę
 ## Sklep serwerowy
 Na Kaczkolandzie możesz kupować lub sprzedawać rzeczy w sklepie na spawnie (`/spawn`).
