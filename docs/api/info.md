@@ -15,6 +15,8 @@ Chcesz, abyśmy dodali Twoją bibliotekę tutaj? Otwórz [dyskusję](https://git
 
 [Slacky](https://discord.com/oauth2/authorize?client_id=719830415615197204&scope=bot) - Bot Discord
 
+[Xibbly](https://discord.com/oauth2/authorize?client_id=759730709430009866&scope=bot) - Bot Discord
+
 Chcesz, abyśmy dodali Twojego bota/aplikację tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api) lub [skontaktuj się z nami na discordzie](https://discord.kaczkoland.pl).
 
 Boty Discord wymienione wyżej nie są zarządzane przez nas, nie odpowiadamy za ewentualne zniszczenia serwera. Najbezpieczniej jest nie dawać botowi uprawnień do wyrzucania, banowania, usuwania kanałów itd.
