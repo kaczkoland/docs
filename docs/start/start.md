@@ -63,6 +63,8 @@ Aby dostać się w niektóre miejsca na serwerze musisz znać niektóre komendy.
 - `/skin <nick gracza premium/link do skina>` - ustawianie skina (inaczej skórki)
 - `/report <nick gracza> <powód>` - zgłoszenie gracza (za np. łamanie [regulaminu](https://kaczkoland.pl/regulamin))
 - `/trade <nick gracza>` - wysłanie prośby o wymianę
+- `/dzien` - wywołanie głosowania na dzień
+- `/noc` - wywołanie głosowania na noc
 ## Sklep serwerowy
 Na Kaczkolandzie możesz kupować lub sprzedawać rzeczy w sklepie na spawnie (`/spawn`).
 ### Sprzedawanie
