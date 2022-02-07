@@ -6,8 +6,8 @@ icon: star
 Aktualnie znajdujesz się na stronie głównej, po lewej stronie ekranu znajdziesz różne 
 artykuły na różne tematy. 
 
-Może potrzebujsz [pomocy z logowaniem](/ogolne/logowanie), 
-[liste podstawowych poleceń/komend]() czy coś innego?
+Może potrzebujesz [pomocy z logowaniem](/ogolne/logowanie), 
+[liste podstawowych poleceń/komend](/survival/komendy) czy coś innego?
 
 Jesli nie możesz znaleźć tego, czego szukasz, zapytaj się na czacie na serwerze
 lub dołącz na nasz [serwer Discord](discord.kaczkoland.pl).

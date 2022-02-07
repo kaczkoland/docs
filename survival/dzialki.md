@@ -41,7 +41,8 @@ Możesz ja kupić klikając w guzik w menu `/pomoc` lub używając komendy `/ps 
 ### Crafting
 Drugim sposobem jest stworzenie bloku działki (scraftowanie go) używajac receptury w 
 craftingu/stole rzemieślniczym.
-Recepturę możesz zobaczyć w menu `/pomoc` klikając w crafting.
+Recepturę możesz zobaczyć w menu `/pomoc` klikając w crafting lub bezpośrednio
+`/dzialka-crafting`.
 ![](../static/images/javaw_BfEfLSvYsg.png)
 ![](../static/images/FOwWjUdAi4.png)
 ## Inne komendy
@@ -66,3 +67,7 @@ przez co przy pokazywaniu
 listy działek będzie widoczna też nazwa, dzięki czemu łatwiej będzie Ci się
 przeteleportować na właściwą działkę.
 ![](../static/images/javaw_3B1rHjQ24b.png)
+### Granica działki
+`/ps view` wyświetla granice działki, na której aktualnie stoisz za pomocą
+cząsteczek/particli.
+![](../static/images/javaw_lvovMH0nNP.png)
