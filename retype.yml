@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: https://docs.kaczkoland.pl
+edit:
+  repo: "https://github.com/kaczkoland/docs/edit/"
+branding:
+  title: Kaczkoland.pl
+  label: Pomoc
+links:
+- text: Kaczkoland.pl
+  link: https://kaczkoland.pl
+- text: Serwer Discord
+  link: https://discord.kaczkoland.pl
+- text: Blog
+  link: https://blog.kaczkoland.pl
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

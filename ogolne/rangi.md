@@ -1,0 +1,4 @@
+---
+icon: rocket
+label: Rangi
+---
