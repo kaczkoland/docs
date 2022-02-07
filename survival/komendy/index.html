@@ -8,27 +8,28 @@
     <!-- Primary Meta Tags -->
     <title>Podstawowe komendy</title>
     <meta name="title" content="Podstawowe komendy">
-    <meta name="description" content="hejo" />
+    <meta name="description" content="[]- opcjonalny argument do komendy (np. /home [nazwa]- /home przeniesie cię na twój domyśny dom, opcjonalnie możesz dodać nazwę domu -" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://docs.kaczkoland.pl/survival/komendy/">
     <meta property="og:title" content="Podstawowe komendy">
-    <meta property="og:description" content="hejo">
+    <meta property="og:description" content="[]- opcjonalny argument do komendy (np. /home [nazwa]- /home przeniesie cię na twój domyśny dom, opcjonalnie możesz dodać nazwę domu -">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://docs.kaczkoland.pl/survival/komendy/">
     <meta property="twitter:title" content="Podstawowe komendy">
-    <meta property="twitter:description" content="hejo">
+    <meta property="twitter:description" content="[]- opcjonalny argument do komendy (np. /home [nazwa]- /home przeniesie cię na twój domyśny dom, opcjonalnie możesz dodać nazwę domu -">
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.697547411608" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/static/favicon.ico" rel="icon" />
+    <link href="/resources/css/retype.css?v=1.11.2.697572104094" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697547411608" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697572104094" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697547411608" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697572104094" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -194,7 +195,85 @@
         <span>Podstawowe komendy</span>
     </h1>
 </doc-anchor-target>
-<p>hejo</p>
+<doc-anchor-target id="legenda">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#legenda">#</doc-anchor-trigger>
+        <span>Legenda</span>
+    </h3>
+</doc-anchor-target>
+<p><code v-pre>[]</code> - opcjonalny argument do komendy (np. <code v-pre>/home [nazwa]</code> - <code v-pre>/home</code> przeniesie cię na twój domyśny dom, opcjonalnie możesz dodać nazwę domu - <code v-pre>/home expiarka</code>)</p>
+<p><code v-pre>&lt;&gt;</code> - wymagany argument do komendy (np. <code v-pre>/tpa &lt;nick gracza&gt;</code> - <code v-pre>/tpa rkubapl</code>)</p>
+<doc-anchor-target id="teleportacja-na-serwerze">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#teleportacja-na-serwerze">#</doc-anchor-trigger>
+        <span>Teleportacja na serwerze</span>
+    </h3>
+</doc-anchor-target>
+<p>Aby dostać się w niektóre miejsca na serwerze musisz znać niektóre komendy. Np:</p>
+<ul>
+<li><code v-pre>/spawn</code> - teleportacja na spawna (środek mapy, gdzie możesz znaleźć sklep itd.)</li>
+<li><code v-pre>/sethome [nazwa]</code> - ustawianie domu</li>
+<li><code v-pre>/home [nazwa]</code> - teleportacja do domu</li>
+<li><code v-pre>/ps home</code> - wyświetlanie listy Twoich działek (klikając w działkę możesz się na nią przenieść)</li>
+<li><code v-pre>/end</code> - teleportacja do endu</li>
+<li><code v-pre>/nether</code> - teleportacja do netheru</li>
+<li><code v-pre>/back</code> - powrót to miejsca, w którym umarłeś/aś (dostępne do uzycia co 4h)</li>
+</ul>
+<doc-anchor-target id="mapa">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mapa">#</doc-anchor-trigger>
+        <span>Mapa</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><code v-pre>/rtp</code> - teleportacja w losowe miejsce na mapie</li>
+<li><code v-pre>/tpa &lt;nick&gt;</code> - wysyłanie prośby o teleportację do podanego gracza</li>
+<li><code v-pre>/tpaccept [nick]</code> - akceptowanie prośby o teleportację</li>
+<li><code v-pre>/tpadeny [nick]</code> - odrzucanie prośby o teleportację</li>
+</ul>
+<doc-anchor-target id="czat">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#czat">#</doc-anchor-trigger>
+        <span>Czat</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><code v-pre>/msg &lt;nick gracza&gt; &lt;wiadomość&gt;</code> - wysyłanie wiadomości do gracza z podanym nickiem</li>
+<li><code v-pre>/r &lt;wiadomość&gt;</code> - pisanie do gracza, który ostatnio do Ciebie wysłał wiadomość</li>
+</ul>
+<doc-anchor-target id="działki">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#działki">#</doc-anchor-trigger>
+        <span>Działki</span>
+    </h3>
+</doc-anchor-target>
+<p>Zobacz <a href="/survival/dzialki/">o działkach</a></p>
+<doc-anchor-target id="ekonomia">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ekonomia">#</doc-anchor-trigger>
+        <span>Ekonomia</span>
+    </h3>
+</doc-anchor-target>
+<p>Zobacz <a href="/survival/ekonomia/">o ekonomii</a> oraz <a href="/survival/sklep-serwerowy/">sklep serweowy</a></p>
+<doc-anchor-target id="zmiana-skina">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#zmiana-skina">#</doc-anchor-trigger>
+        <span>Zmiana skina</span>
+    </h3>
+</doc-anchor-target>
+<p>Zobacz <a href="/ogolne/wlasny-skin/">zmiana skina</a></p>
+<doc-anchor-target id="inne-komendy">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#inne-komendy">#</doc-anchor-trigger>
+        <span>Inne komendy</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><code v-pre>/report &lt;nick gracza&gt; &lt;powód&gt;</code> - zgłoszenie gracza (za np. łamanie <a href="https://kaczkoland.pl/regulamin">regulaminu</a>)</li>
+<li><code v-pre>/wymiana &lt;nick gracza&gt;</code> - wysłanie prośby o wymianę</li>
+<li><code v-pre>/dzien</code> - wywołanie głosowania na dzień</li>
+<li><code v-pre>/noc</code> - wywołanie głosowania na noc</li>
+</ul>
 
 
 
