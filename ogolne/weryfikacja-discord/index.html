@@ -27,11 +27,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/static/favicon.ico" rel="icon" />
-    <link href="/resources/css/retype.css?v=1.11.2.697623722066" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.698072293127" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.697623722066" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.698072293127" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.697623722066" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.698072293127" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -214,6 +214,31 @@ zmieniony Twój nick na serwerze na nick z gry.</p>
     <figcaption class="caption"></figcaption>
 </figure>
 </li>
+<li>Włącz wiadomości prywatne od członków serwera.</li>
+</ol>
+<doc-panels>
+   <doc-panel id="rozwiązanie-na-urządzenia-mobilne" collapsed>
+       <template #title>Rozwiązanie na urządzenia mobilne</template>
+<p>Na Discordzie na urządzeniach mobilnych kliknij na serwer Kaczkolandu i otwórz listę kanałów.
+Kliknij trzy kropki, przewiń niżej i włącz <strong>Prywatne wiadomości</strong>.
+<figure class="content-center">
+    <img src="../static/images/scr.jpg" alt="" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+   </doc-panel>
+   <doc-panel id="rozwiązanie-na-komputer" collapsed>
+       <template #title>Rozwiązanie na komputer</template>
+<p>Na Discordzie na komputerze kliknij na serwer Kaczkolandu i kliknij
+strzałkę w dół. Kliknij w <strong>Ustawienia prywatności</strong> i opcję <strong>Zezwalaj na wiadomości od członków serwerów</strong> włącz.
+<figure class="content-center">
+    <img src="../../static/images/scr2.jpg" alt="" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+   </doc-panel>
+</doc-panels>
+<ol start="5">
 <li>Sześciocyfrowy kod, który otrzymasz na serwerze wyślij do bota <strong>Kaczkoland</strong>
 w prywatnej wiadomości.
 <figure class="content-center">
