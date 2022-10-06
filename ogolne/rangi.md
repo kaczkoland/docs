@@ -18,6 +18,7 @@ Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
 - Możliwość dołączenia na serwer gdy jest pełny
 - Slowmode 4 sekundy (opóźnienie wysyłania wiadomości)
 ||| SVIP
+- uprawienia rangi VIP
 - Widoczna ranga na czacie
 - Możliwość dołączenia na serwer gdy jest pełny
 - Ranga na Discordzie
@@ -26,6 +27,7 @@ Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
 - Slowmode 2 sekundy
 - Pisanie kolorowe na tabliczce
 ||| KACZKA
+- uprawienia rangi SVIP i VIP
 - Widoczna ranga na czacie
 - Możliwość dołączenia na serwer gdy jest pełny
 - Ranga na Discordzie
