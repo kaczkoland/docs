@@ -39,6 +39,7 @@ Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
 - Możliwość ustawienia wiadomości powitalnej na action bar (`greeting-action`) i pożegnalnej na action bar (`farewell-action`) na działce(`/ps flag`)
 |||
 Działki oraz domy zostają po wygaśnięciu rangi, ale nie możesz postawić nowej działki oraz nowego domu dopóki nie zejdziesz poniżej aktualnego limitu działek oraz domów.
+
 Przykład: posiadasz 12 działek dzięki randze KACZKA, po jej wygaśnięciu zniszczyłeś jedną działkę, wtedy posiadasz 11 działek, jednak nie możesz postawić nowej działki dopóki nie zejdziesz poniżej swojego aktualnego limitu działek (czyli dla rangi gracz to 3), aby móc postawić nową działkę musisz mieć 2 działki.
 ## Jak zdobyć rangę?
 ### Kupno w sklepie
