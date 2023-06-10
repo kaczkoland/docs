@@ -36,7 +36,7 @@ Blok działki umożliwia stworzenie działki. W zależności od Twojej
 [rangi](/ogolne/rangi) masz różny limit działek.
 ### Kupno
 Jednym ze sposobów zdobycia bloku działki jest kupno jej za 2000$ serwerowych.
-Możesz ja kupić klikając w guzik w menu `/pomoc` lub używając komendy `/ps get 32`.
+Możesz ja kupić klikając w guzik w menu `/pomoc` lub używając komendy `/ps get dzialka`.
 ![](../static/images/javaw_81GBkdb7uN.png)
 ### Crafting
 Drugim sposobem jest stworzenie bloku działki (scraftowanie go) używajac receptury w 
