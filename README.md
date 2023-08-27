@@ -2,7 +2,7 @@
 label: Strefa pomocy Kaczkolandu
 icon: star
 ---
-**Kaczkoland.pl** to serwer Minecraft survival + działki 1.18.1. 
+**Kaczkoland.pl** to serwer Minecraft survival + działki 1.20.1. 
 Aktualnie znajdujesz się na stronie głównej, po lewej stronie ekranu znajdziesz różne 
 artykuły na różne tematy. 
 
