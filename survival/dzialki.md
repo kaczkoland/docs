@@ -71,3 +71,8 @@ przeteleportować na właściwą działkę.
 `/ps view` wyświetla granice działki, na której aktualnie stoisz za pomocą
 cząsteczek/particli.
 ![](../static/images/javaw_lvovMH0nNP.png)
+
+# Pytania i odpowiedzi
+==- Czy jest jakiś limit działek?
+Tak, limit działek dla twojej rangi możesz [zobaczyć tutaj](/ogolne/rangi)
+===
