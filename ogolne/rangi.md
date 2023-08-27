@@ -38,6 +38,7 @@ Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
 - Możliwość używania komendy `/rename` do rzeczy z kolorami
 - Możliwość ustawienia wiadomości powitalnej (`greeting`) i pożegnalnej (`farewell`) na działce(`/ps flag`)
 - Możliwość sprzedawania przedmiotów masowo w sklepie za pomocą komendy `/sellgui` w dowolnym miejscu
+- Komenda `/sklep` pozwalająca korzystanie ze sklepu serwerowego z dowolnego miejsca na mapie
 |||
 Działki oraz domy zostają po wygaśnięciu rangi, ale nie możesz postawić nowej działki oraz nowego domu dopóki nie zejdziesz poniżej aktualnego limitu działek oraz domów.
 
