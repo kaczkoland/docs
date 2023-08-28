@@ -7,12 +7,15 @@ kosmetyczne, jednak niektóre dają przewagę. Staramy się nie dawać rangom du
 przewagi.
 
 ## Co posiadają rangi?
-Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
+Gracz początkowo posiada 5 sekund slowmode, 3 działki, możliwość wystawienia 3 przedmiotów na /ah oraz 3 domy.
+||| Gracz
+
 ||| VIP
 - Widoczna ranga na czacie
 - Ranga na Discordzie
 - **Działki - 6**
 - Domy - 5
+- Możliwość wystawienia na rynku /ah jednocześnie **5 przedmiotów**
 - Pisanie kolorowe na czacie
 - Komenda `/hat`
 - Możliwość dołączenia na serwer gdy jest pełny
@@ -24,6 +27,7 @@ Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
 - Ranga na Discordzie
 - **Działki - 8**
 - Domy - 7
+- Możliwość wystawienia na rynku /ah jednocześnie **8 przedmiotów**
 - Slowmode 2 sekundy
 - Pisanie kolorowe na tabliczce
 ||| KACZKA
@@ -33,6 +37,7 @@ Gracz początkowo posiada 5 sekund slowmode, 3 działki oraz 3 domy.
 - Ranga na Discordzie
 - **Działki - 12**
 - Domy - 7
+- Możliwość wystawienia na rynku /ah jednocześnie **13 przedmiotów**
 - Brak slowmode
 - Pisanie kolorowe na tabliczce
 - Możliwość używania komendy `/rename` do rzeczy z kolorami
